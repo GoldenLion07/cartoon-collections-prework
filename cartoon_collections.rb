@@ -17,7 +17,7 @@ new_arr
 end
 
 def long_planeteer_calls(arr)
-  # Your code here
+  i = 0 
 end
 
 def find_the_cheese# code an argument here
