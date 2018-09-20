@@ -19,7 +19,11 @@ end
 def long_planeteer_calls(arr)
   i = 0 
   if arr.any? { |i| i.length > 4}
-    
+    return true 
+  else 
+    return false 
+  end 
+  i += 1
 end
 
 def find_the_cheese# code an argument here
