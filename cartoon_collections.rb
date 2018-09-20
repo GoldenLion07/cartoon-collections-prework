@@ -10,7 +10,7 @@ def summon_captain_planet(arr)
   new_arr = []
   i = 0 
   while i < arr.length 
-  puts 
+  new_arr <<  
 end
 
 def long_planeteer_calls# code an argument here
