@@ -2,6 +2,8 @@ def roll_call_dwarves(arr)
   i = 0 
   while i < arr.length 
   puts "#{i + 1}. #{arr[i]}"
+  i += 1 
+end
 end
 
 def summon_captain_planet# code an argument here
