@@ -7,6 +7,7 @@ def roll_call_dwarves(arr)
 end
 
 def summon_captain_planet(arr)
+  new_arr = []
   
 end
 
