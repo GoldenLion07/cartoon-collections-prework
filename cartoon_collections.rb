@@ -18,7 +18,7 @@ end
 
 def long_planeteer_calls(arr)
   i = 0 
-  if arr.any? { ||}
+  if arr.any? { |i| i}
 end
 
 def find_the_cheese# code an argument here
